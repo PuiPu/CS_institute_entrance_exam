@@ -25,3 +25,13 @@ Time : 2024/7/5
 - 解 homogeneous 跟 particlular solution
 ## 問題
 - 特殊的替換方式要記
+# 5-4
+## 問題
+- 怎麼用 generating function 去解遞迴式 ? generating function 定義 ?
+- 為什麼要乘以 x^n 然後取 sigma ?
+	- 因為等式同乘 x^n 不影響等式
+	- 在取 sum 也不影響等式
+- a_n = generating function A(x) : x^n 的係數
+## 重點
+- [[partial fractional decomposition (calculas)]]
+- 

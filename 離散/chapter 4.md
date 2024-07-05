@@ -32,7 +32,7 @@ Time : 2024/6/25
 	- 與一般生成函數的關係 ? (HINT : 排列 v.s. 組合)
 		- ANS : 其實就是除以 n! 而已 ( c(n, r) = p(n,r) / r! ) 
 - 要記得的指數生成函數
-	- 1, 1, 1, ... ( e^x : why taylor series ?  [[https://www.youtube.com/watch?v=3d6DsjIBzJ4&ab_channel=3Blue1Brown|taylor series]] )
+	- 1, 1, 1, ... ( e^x : why taylor series ?  [taylor series](https://www.youtube.com/watch?v=3d6DsjIBzJ4&ab_channel=3Blue1Brown)
 # 4-4
 ## 重點
 - 求和算子 (sum operator) 的定義 ? 求法 ?
