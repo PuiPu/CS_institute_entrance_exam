@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e757163284d1fe91","x":-840,"y":-160,"width":300,"height":240,"type":"file","file":"離散/chapter 5.md"},
+		{"id":"9ba0ff8a87bbca49","x":-180,"y":-480,"width":354,"height":287,"type":"file","file":"離散/chapter 4.md"},
+		{"id":"e334357d2c2a9377","x":174,"y":-836,"width":200,"height":140,"type":"file","file":"離散/concept/non-homogeneous solution problem.md"},
+		{"id":"ed6245830f97cafe","x":-1040,"y":-2080,"width":640,"height":348,"type":"link","url":"https://www.youtube.com/watch?v=eHI-Szjpafk&ab_channel=VickyZhao%5BBEEAMP%5D"},
+		{"id":"2d3c31d07fdfe624","x":-40,"y":360,"width":180,"height":160,"type":"file","file":"離散/chapter 6.md"}
+	],
+	"edges":[
+		{"id":"470445b1f639831e","fromNode":"e757163284d1fe91","fromSide":"top","toNode":"9ba0ff8a87bbca49","toSide":"left","label":"recurrsion using generating function"},
+		{"id":"39ed214615c055d7","fromNode":"9ba0ff8a87bbca49","fromSide":"top","toNode":"e334357d2c2a9377","toSide":"bottom","label":"how to find particular solution when multi-root ? why ?"}
+	]
+}
