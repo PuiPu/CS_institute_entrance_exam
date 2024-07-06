@@ -29,3 +29,10 @@ Time : 2024/6/29
 ## 加強
 - 子圖的定義
 - 各個圖的定義跟性質
+---
+Time : 2024/7/6
+# 6-2
+## 重點
+- adjacency matrix 定義
+- incidence matrix (接合矩陣) 定義 -> 這挺酷的
+- isomorphic 同構定義 ? 如何判斷 ?

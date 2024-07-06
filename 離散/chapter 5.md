@@ -34,4 +34,8 @@ Time : 2024/7/5
 - a_n = generating function A(x) : x^n 的係數
 ## 重點
 - [[partial fractional decomposition (calculas)]]
-- 
+---
+Time : 2024/7/6
+# 5-5
+## 重點
+- 在展開遞迴式的時候可以分開展開比較不會亂 (5-77)
