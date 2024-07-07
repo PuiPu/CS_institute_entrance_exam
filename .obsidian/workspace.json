@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "183f03cefc27f690",
+        "id": "04fa994df0db7d73",
         "type": "tabs",
         "children": [
           {
-            "id": "e09613b86e450bc4",
+            "id": "4fe5d41cc3478bf5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md"
+              }
+            }
+          },
+          {
+            "id": "eb9c903574d6fe50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資結/ch4 linked lists.md",
+                "file": "資結/ch6 graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/ch4 linked lists.md",
+                "file": "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/ch4 linked lists.md",
+                "file": "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資結/ch4 linked lists.md"
+                "file": "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md"
               }
             }
           }
@@ -147,17 +157,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e09613b86e450bc4",
+  "active": "4fe5d41cc3478bf5",
   "lastOpenFiles": [
-    "離散/chapter 2.md",
-    "資結/ch4 linked lists.md",
-    "離散/concept/partial fractional decomposition (calculas).md",
-    "Excalidraw/ch4 linked list.md",
-    "離散/chapter 4.md",
-    "離散/離散.canvas",
-    "離散/chapter 6.md",
+    "資結/ch6 graphs.md",
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
     "離散/chapter 5.md",
+    "離散/chapter 4.md",
+    "離散/chapter 2.md",
+    "離散/離散.canvas",
+    "資結/ch4 linked lists.md",
     "資結/ch1 basic concept.md",
+    "Excalidraw/data structure/graph.md",
+    "Excalidraw/data structure",
+    "Untitled.md",
+    "Excalidraw/algorithm/graph algorithm",
+    "Excalidraw/algorithm",
+    "Excalidraw/discrete math mind map.md",
+    "Excalidraw/ch4 linked list.md",
+    "離散/chapter 6.md",
+    "資結/code practice/uva 514 rails.md",
+    "資結/code practice",
+    "離散/concept/partial fractional decomposition (calculas).md",
     "Excalidraw",
     "離散/concept/non-homogeneous solution problem.md",
     "離散/concept/without lose of generality.md",

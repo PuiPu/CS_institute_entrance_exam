@@ -39,3 +39,13 @@ Time : 2024/7/6
 # 5-5
 ## 重點
 - 在展開遞迴式的時候可以分開展開比較不會亂 (5-77)
+---
+Time : 2024/7/7
+#  5-6
+## 重點
+- Catalan number (卡特蘭數)
+## 問題
+- 遞迴問題怎麼生成 Cartalan number 的 ? 
+	- ANS : 生成函數 (ch4) + 卷積 (ch4)
+[[uva 514 rails]]
+> number of binary tree is catalan number is too hard , 跳過 ... 

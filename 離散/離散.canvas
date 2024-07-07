@@ -3,16 +3,16 @@
 		{"id":"ed6245830f97cafe","type":"link","url":"https://www.youtube.com/watch?v=eHI-Szjpafk&ab_channel=VickyZhao%5BBEEAMP%5D","x":-1040,"y":-2080,"width":640,"height":348},
 		{"id":"2d3c31d07fdfe624","type":"file","file":"離散/chapter 6.md","x":-270,"y":800,"width":180,"height":160},
 		{"id":"4fe1ecaaa4674fd7","type":"file","file":"離散/Central.md","x":374,"y":-40,"width":400,"height":400},
-		{"id":"9ba0ff8a87bbca49","type":"file","file":"離散/chapter 4.md","x":-180,"y":-520,"width":354,"height":287},
 		{"id":"e334357d2c2a9377","type":"file","file":"離散/concept/non-homogeneous solution problem.md","x":174,"y":-960,"width":200,"height":140},
-		{"id":"e757163284d1fe91","type":"file","file":"離散/chapter 5.md","x":-1040,"y":160,"width":300,"height":180}
+		{"id":"e757163284d1fe91","type":"file","file":"離散/chapter 5.md","x":-1040,"y":160,"width":300,"height":180},
+		{"id":"9ba0ff8a87bbca49","type":"file","file":"離散/chapter 4.md","x":-240,"y":-680,"width":354,"height":287}
 	],
 	"edges":[
-		{"id":"470445b1f639831e","fromNode":"e757163284d1fe91","fromSide":"top","toNode":"9ba0ff8a87bbca49","toSide":"left","label":"recurrsion using generating function"},
 		{"id":"39ed214615c055d7","fromNode":"9ba0ff8a87bbca49","fromSide":"top","toNode":"e334357d2c2a9377","toSide":"bottom","label":"how to find particular solution when multi-root ? why ?"},
 		{"id":"f329937cf70e560b","fromNode":"9ba0ff8a87bbca49","fromSide":"bottom","toNode":"4fe1ecaaa4674fd7","toSide":"left"},
 		{"id":"e6b6a164a7f5e359","fromNode":"e757163284d1fe91","fromSide":"right","toNode":"4fe1ecaaa4674fd7","toSide":"left"},
 		{"id":"8cb0bb7cb384aee4","fromNode":"2d3c31d07fdfe624","fromSide":"top","toNode":"4fe1ecaaa4674fd7","toSide":"left"},
-		{"id":"cdc3d9abab2551a4","fromNode":"e757163284d1fe91","fromSide":"right","toNode":"9ba0ff8a87bbca49","toSide":"left","label":"finding generation function (1. differentiate 2. multiply x)"}
+		{"id":"cdc3d9abab2551a4","fromNode":"e757163284d1fe91","fromSide":"right","toNode":"9ba0ff8a87bbca49","toSide":"left","label":"finding generation function (1. differentiate 2. multiply x)"},
+		{"id":"470445b1f639831e","fromNode":"e757163284d1fe91","fromSide":"top","toNode":"9ba0ff8a87bbca49","toSide":"left","label":"recurrsion using generating function"}
 	]
 }
