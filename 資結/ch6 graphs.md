@@ -108,6 +108,7 @@ w \quad if \; (i,j) \in E \\
 		b. in degree = complex ...
 		   | inverse adjacency list : contain a node for each vertex adjacent to                the vertex |
 ```
+> 為什麼要有 inverse adjacency list ? ANS : 因為 inverse 以後，outdegree 就會變成 indegree (cool)
 ## adjacency multilist
 > Concept
 > 	1. remember the other connected edges (edge based)
