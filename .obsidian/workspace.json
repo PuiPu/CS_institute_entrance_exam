@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "70c13be18071afa6",
+    "id": "e9f79c5da2360ac5",
     "type": "split",
     "children": [
       {
-        "id": "5942e749c9f42f56",
+        "id": "f2a50bb78697bbad",
         "type": "tabs",
         "children": [
           {
-            "id": "877741311f0d0265",
+            "id": "255b276f43f960bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "離散/chapter 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f34d05fa529a0aee",
+    "id": "8bf1d2ab6ee606a9",
     "type": "split",
     "children": [
       {
-        "id": "ca4a86159b726591",
+        "id": "845f2a988dd2aa53",
         "type": "tabs",
         "children": [
           {
-            "id": "ada6ffdff996dd96",
+            "id": "8a20f951d81b984f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "c4ca520134877ceb",
+            "id": "cae7df81011ccd3a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "a0d696fbbe326064",
+            "id": "e24f835ec944e3ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,42 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "77b6f29405fa4a1f",
+    "id": "1ca7a9708a7dac0d",
     "type": "split",
     "children": [
       {
-        "id": "f4302c946f4188a3",
+        "id": "62d30e9e01fffd2d",
         "type": "tabs",
         "children": [
           {
-            "id": "5121838bb08fad44",
+            "id": "88629c8d471715b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "離散/chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bc67c7da2f32b161",
+            "id": "dc9a3a0cb2d6af9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "離散/chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "db27cbc8dcf0acff",
+            "id": "e916dd3b664b059b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,17 +120,13 @@
             }
           },
           {
-            "id": "857e8ea2cd70f289",
+            "id": "21b7ebaa93b780fb",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "remote note/Excalidraw/discrete math mind map.md"
+                "file": "離散/chapter 3.md"
               }
->>>>>>> 2b05ca24ed6c867c10f2c16f4d2387003e5ab56f
             }
           }
         ]
@@ -145,83 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "877741311f0d0265",
+  "active": "255b276f43f960bb",
   "lastOpenFiles": [
-    "Excalidraw/linear algebra ch2.md",
-    "Excalidraw/linear algebra/Untitled.md",
-    "Excalidraw/discrete math/discrete math mind map.md",
-    "Excalidraw/linear algebra",
-    "資結/ch6 graphs.md",
-    "Excalidraw/discrete math",
-    "演算法/graph algorithm.md",
-    "Excalidraw/data structure/graph.md",
-    "演算法/clr4e solution/clr4e-solution.pdf",
-    "資結/ch1 basic concept.md",
-    "資結/ch4 linked lists.md",
-    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
-    "Excalidraw/data structure/ch4 linked list.md",
-    "Excalidraw/graph algorithm 2024-07-07 22.34.23.excalidraw.md",
+    "離散/chapter 6.md",
+    "離散/chapter 3.md",
     "離散/chapter 5.md",
     "離散/chapter 4.md",
     "離散/chapter 2.md",
-    "離散/離散.canvas",
-    "Excalidraw/data structure",
-    "Untitled.md",
-    "Excalidraw/algorithm/graph algorithm",
-    "Excalidraw/algorithm",
-    "離散/chapter 6.md",
-    "資結/code practice/uva 514 rails.md",
-    "資結/code practice",
-    "離散/concept/partial fractional decomposition (calculas).md",
-    "Excalidraw",
-    "離散/concept/non-homogeneous solution problem.md",
-    "離散/concept/without lose of generality.md",
     "離散/Central.md",
-    "離散/concept",
-    "Untitled 1",
-    "Roam-Highlights.md"
-=======
-  "active": "ada6ffdff996dd96",
-  "lastOpenFiles": [
-    "Excalidraw/discrete math mind map.md",
-    "remote note/Excalidraw/discrete math mind map.md",
-    "remote note/Excalidraw/ch4 linked list.md",
-    "remote note/Excalidraw/data structure/graph.md",
-    "remote note/Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
-    "Excalidraw/ch4 linked list.md",
+    "線代/determinant.md",
+    "Excalidraw/discrete math/discrete math mind map.md",
+    "Excalidraw/linear algebra ch2.md",
     "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
-    "資結/ch4 linked lists.md",
-    "資結/ch1 basic concept.md",
-    "資結/ch6 graphs.md",
-    "演算法/clr4e solution/clr4e-solution.pdf",
-    "演算法/graph algorithm.md",
-    "remote note/離散/concept/without lose of generality.md",
-    "remote note/離散/concept/partial fractional decomposition (calculas).md",
-    "remote note/離散/concept/non-homogeneous solution problem.md",
-    "remote note/離散/離散.canvas",
-    "remote note/離散/Note.txt.txt",
-    "remote note/離散/concept",
-    "remote note/離散/chapter 6.md",
-    "remote note/離散/chapter 5.md",
-    "remote note/離散/chapter 4.md",
-    "remote note/離散/chapter 2.md",
-    "remote note/離散/Central.md",
-    "remote note/離散",
-    "remote note/資結/code practice/uva 514 rails.md",
-    "remote note/資結/code practice",
-    "remote note/資結/ch4 linked lists.md",
-    "remote note/資結/ch6 graphs.md",
-    "remote note/資結/ch1 basic concept.md",
-    "remote note/資結",
-    "remote note/計組/Note.txt.txt",
-    "remote note/計組",
-    "remote note/線代/Note.txt.txt",
-    "remote note/線代",
-    "remote note/演算法/graph algorithm.md",
-    "資結/code practice/uva 514 rails.md",
-    "Excalidraw/data structure/graph.md",
-    "離散/離散.canvas"
->>>>>>> 2b05ca24ed6c867c10f2c16f4d2387003e5ab56f
+    "Excalidraw/data structure/ch4 linked list.md",
+    "Excalidraw/data structure/graph.md"
   ]
 }
