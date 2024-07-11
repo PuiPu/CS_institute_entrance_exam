@@ -118,7 +118,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "remote note/Excalidraw/discrete math mind map.md"
+              }
+>>>>>>> 2b05ca24ed6c867c10f2c16f4d2387003e5ab56f
             }
           }
         ]
@@ -139,6 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "877741311f0d0265",
   "lastOpenFiles": [
     "Excalidraw/linear algebra ch2.md",
@@ -174,5 +181,47 @@
     "離散/concept",
     "Untitled 1",
     "Roam-Highlights.md"
+=======
+  "active": "ada6ffdff996dd96",
+  "lastOpenFiles": [
+    "Excalidraw/discrete math mind map.md",
+    "remote note/Excalidraw/discrete math mind map.md",
+    "remote note/Excalidraw/ch4 linked list.md",
+    "remote note/Excalidraw/data structure/graph.md",
+    "remote note/Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
+    "Excalidraw/ch4 linked list.md",
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
+    "資結/ch4 linked lists.md",
+    "資結/ch1 basic concept.md",
+    "資結/ch6 graphs.md",
+    "演算法/clr4e solution/clr4e-solution.pdf",
+    "演算法/graph algorithm.md",
+    "remote note/離散/concept/without lose of generality.md",
+    "remote note/離散/concept/partial fractional decomposition (calculas).md",
+    "remote note/離散/concept/non-homogeneous solution problem.md",
+    "remote note/離散/離散.canvas",
+    "remote note/離散/Note.txt.txt",
+    "remote note/離散/concept",
+    "remote note/離散/chapter 6.md",
+    "remote note/離散/chapter 5.md",
+    "remote note/離散/chapter 4.md",
+    "remote note/離散/chapter 2.md",
+    "remote note/離散/Central.md",
+    "remote note/離散",
+    "remote note/資結/code practice/uva 514 rails.md",
+    "remote note/資結/code practice",
+    "remote note/資結/ch4 linked lists.md",
+    "remote note/資結/ch6 graphs.md",
+    "remote note/資結/ch1 basic concept.md",
+    "remote note/資結",
+    "remote note/計組/Note.txt.txt",
+    "remote note/計組",
+    "remote note/線代/Note.txt.txt",
+    "remote note/線代",
+    "remote note/演算法/graph algorithm.md",
+    "資結/code practice/uva 514 rails.md",
+    "Excalidraw/data structure/graph.md",
+    "離散/離散.canvas"
+>>>>>>> 2b05ca24ed6c867c10f2c16f4d2387003e5ab56f
   ]
 }
