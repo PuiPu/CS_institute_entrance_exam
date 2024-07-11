@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f9046248317a4394",
+        "id": "5942e749c9f42f56",
         "type": "tabs",
         "children": [
           {
-            "id": "243ed5117a24b7ed",
+            "id": "877741311f0d0265",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/discrete math mind map.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/discrete math mind map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/discrete math mind map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/discrete math mind map.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,13 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243ed5117a24b7ed",
+  "active": "877741311f0d0265",
   "lastOpenFiles": [
+    "Excalidraw/linear algebra ch2.md",
+    "Excalidraw/linear algebra/Untitled.md",
+    "Excalidraw/discrete math/discrete math mind map.md",
+    "Excalidraw/linear algebra",
     "資結/ch6 graphs.md",
     "Excalidraw/discrete math",
     "演算法/graph algorithm.md",
     "Excalidraw/data structure/graph.md",
-    "Excalidraw/discrete math mind map.md",
     "演算法/clr4e solution/clr4e-solution.pdf",
     "資結/ch1 basic concept.md",
     "資結/ch4 linked lists.md",
@@ -176,7 +173,6 @@
     "離散/Central.md",
     "離散/concept",
     "Untitled 1",
-    "資結",
     "Roam-Highlights.md"
   ]
 }
