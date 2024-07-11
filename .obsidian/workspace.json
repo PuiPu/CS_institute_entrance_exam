@@ -11,12 +11,8 @@
             "id": "243ed5117a24b7ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "資結/ch6 graphs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/ch6 graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/ch6 graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資結/ch6 graphs.md"
+                "file": "remote note/Excalidraw/discrete math mind map.md"
               }
             }
           }
@@ -147,38 +141,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "243ed5117a24b7ed",
+  "active": "ada6ffdff996dd96",
   "lastOpenFiles": [
-    "演算法/graph algorithm.md",
-    "Excalidraw/data structure/graph.md",
     "Excalidraw/discrete math mind map.md",
-    "演算法/clr4e solution/clr4e-solution.pdf",
-    "資結/ch1 basic concept.md",
-    "資結/ch4 linked lists.md",
-    "資結/ch6 graphs.md",
-    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
+    "remote note/Excalidraw/discrete math mind map.md",
+    "remote note/Excalidraw/ch4 linked list.md",
+    "remote note/Excalidraw/data structure/graph.md",
+    "remote note/Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
     "Excalidraw/ch4 linked list.md",
-    "Excalidraw/graph algorithm 2024-07-07 22.34.23.excalidraw.md",
-    "離散/chapter 5.md",
-    "離散/chapter 4.md",
-    "離散/chapter 2.md",
-    "離散/離散.canvas",
-    "Excalidraw/data structure",
-    "Untitled.md",
-    "Excalidraw/algorithm/graph algorithm",
-    "Excalidraw/algorithm",
-    "離散/chapter 6.md",
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
+    "資結/ch4 linked lists.md",
+    "資結/ch1 basic concept.md",
+    "資結/ch6 graphs.md",
+    "演算法/clr4e solution/clr4e-solution.pdf",
+    "演算法/graph algorithm.md",
+    "remote note/離散/concept/without lose of generality.md",
+    "remote note/離散/concept/partial fractional decomposition (calculas).md",
+    "remote note/離散/concept/non-homogeneous solution problem.md",
+    "remote note/離散/離散.canvas",
+    "remote note/離散/Note.txt.txt",
+    "remote note/離散/concept",
+    "remote note/離散/chapter 6.md",
+    "remote note/離散/chapter 5.md",
+    "remote note/離散/chapter 4.md",
+    "remote note/離散/chapter 2.md",
+    "remote note/離散/Central.md",
+    "remote note/離散",
+    "remote note/資結/code practice/uva 514 rails.md",
+    "remote note/資結/code practice",
+    "remote note/資結/ch4 linked lists.md",
+    "remote note/資結/ch6 graphs.md",
+    "remote note/資結/ch1 basic concept.md",
+    "remote note/資結",
+    "remote note/計組/Note.txt.txt",
+    "remote note/計組",
+    "remote note/線代/Note.txt.txt",
+    "remote note/線代",
+    "remote note/演算法/graph algorithm.md",
     "資結/code practice/uva 514 rails.md",
-    "資結/code practice",
-    "離散/concept/partial fractional decomposition (calculas).md",
-    "Excalidraw",
-    "離散/concept/non-homogeneous solution problem.md",
-    "離散/concept/without lose of generality.md",
-    "離散/Central.md",
-    "離散/concept",
-    "Untitled 1",
-    "資結",
-    "Roam-Highlights.md",
-    "離散"
+    "Excalidraw/data structure/graph.md",
+    "離散/離散.canvas"
   ]
 }
