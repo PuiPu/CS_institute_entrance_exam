@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/ch3 determinant.md",
+                "file": "線代/ch3 vector space.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/ch3 determinant.md",
+                "file": "線代/ch3 vector space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/ch3 determinant.md",
+                "file": "線代/ch3 vector space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/ch3 determinant.md"
+                "file": "線代/ch3 vector space.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "255b276f43f960bb",
   "lastOpenFiles": [
+    "線代/ch2 determinant.md",
+    "線代/ch3 vector space.md",
     "離散/chapter 3.md",
     "離散/chapter 6.md",
     "離散/chapter 5.md",
     "離散/chapter 4.md",
     "離散/chapter 2.md",
     "離散/Central.md",
-    "線代/ch3 determinant.md",
     "Excalidraw/discrete math/discrete math mind map.md",
     "Excalidraw/linear algebra ch2.md",
     "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
