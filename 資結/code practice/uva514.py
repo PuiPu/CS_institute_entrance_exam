@@ -5,8 +5,8 @@ while True:
         break
     
     while True:
-        first = int(input())
-        print(f"first={first}")
+        first = input()
+        # print(f"first={first}")
         if first == 0:
             print("break inside")
             break
