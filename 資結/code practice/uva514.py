@@ -14,7 +14,8 @@ while True:
         train.append(first)
         # push N-1 times
         for i in range(1, N):
-            t = int(input())
+            
+            t = int(input().split())
             train.append(t)
             # print
             print(f"train: {train}")
