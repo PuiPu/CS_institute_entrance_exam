@@ -5,8 +5,9 @@ while True:
         break
     
     while True:
-        first = input()
+        first = int(input())
         if first == 0:
+            print("break inside")
             break
         train = []
         train.append(first)
