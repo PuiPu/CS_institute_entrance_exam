@@ -6,6 +6,7 @@ while True:
     
     while True:
         first = int(input())
+        print(f"first={first}")
         if first == 0:
             print("break inside")
             break
@@ -13,7 +14,8 @@ while True:
         train.append(first)
         # push N-1 times
         for i in range(1, N):
-            train.append(input())
+            t = int(input())
+            train.append(t)
             # print
             print(f"train: {train}")
         
