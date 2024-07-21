@@ -1,11 +1,11 @@
 while True:
     N = int(input())
-
+    print(f"N={N}")
     if N == 0:
         break
     
     while True:
-        first = input()
+        first = int(input())
         # print(f"first={first}")
         if first == 0:
             print("break inside")
@@ -14,7 +14,6 @@ while True:
         train.append(first)
         # push N-1 times
         for i in range(1, N):
-            
             t = int(input().split())
             train.append(t)
             # print
