@@ -1,5 +1,5 @@
 while True:
-    N = input()
+    N = int(input())
 
     if N == 0:
         break
