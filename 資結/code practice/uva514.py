@@ -4,8 +4,6 @@ while True:
     if N == 0:
         break
     
-    first = 0
-
     while True:
         first = input()
         if first == 0:
@@ -15,6 +13,8 @@ while True:
         # push N-1 times
         for i in range(1, N):
             train.append(input())
-        # print
-        print(f"train: {train}")
+            # print
+            print(f"train: {train}")
+        
+        
         
