@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "離散/chapter 3.md",
+                "file": "資結/code practice/uva 514 rails.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "離散/chapter 3.md",
+                "file": "資結/code practice/uva 514 rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "離散/chapter 3.md",
+                "file": "資結/code practice/uva 514 rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "離散/chapter 3.md"
+                "file": "資結/code practice/uva 514 rails.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "255b276f43f960bb",
   "lastOpenFiles": [
-    "離散/chapter 6.md",
+    "資結/code practice/uva514.py",
     "離散/chapter 3.md",
+    "離散/chapter 6.md",
     "離散/chapter 5.md",
     "離散/chapter 4.md",
     "離散/chapter 2.md",
