@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資結/code practice/uva 514 rails.md",
+                "file": "離散/chapter 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "離散/chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "離散/chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "離散/chapter 5.md"
               }
             }
           }
@@ -145,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a20f951d81b984f",
+  "active": "255b276f43f960bb",
   "lastOpenFiles": [
-    "資結/code practice/uva514_v1.py",
+    "Untitled.md",
     "Xournal++/卡特蘭數.xopp~",
+    "資結/code practice/uva514_v1.py",
     "Xournal++/卡特蘭數.xopp",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
     "Xournal++",
     "資結/code practice/uva 514 rails.md",
     "線代/ch3 vector space.md",

@@ -49,3 +49,4 @@ Time : 2024/7/7
 	- ANS : 生成函數 (ch4) + 卷積 (ch4)
 [[uva 514 rails]]
 > number of binary tree is catalan number is too hard , 跳過 ... 
+- 用組合證法不是很清楚，要再看
