@@ -21,31 +21,20 @@ while True:
         # logic part
         stack = []
         idx = 0 # pointer of "train"
-        # for t in train:
-        #     stack.append(t)
+        for t in train:
+            stack.append(t)
             
-        #     if (t == station[idx]):
-        #         print(f"    t={t}")
-        #         idx += 1
-        #         stack.pop()
-                
-        for st in station:
-            if idx == len(train)-1:
-                break
-            
-            stack.append(train[idx])
-            idx += 1
-            
-            if (st == train[idx]):
+            if (t == station[idx]):
+                print(f"    t={t}")
+                idx += 1
                 stack.pop()
-        
-        print(f"stack={stack}")   
-        if len(stack) == 0:
-            print("yes")
-        else:
-            print("no")            
+        while len(stack) != 0 and 
+
+        # print(f"stack={stack}")   
+        # if len(stack) == 0:
+        #     print("yes")
+        # else:
+        #     print("no")            
         # print
-        
-        
-        
+               
         

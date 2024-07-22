@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6635d2e80e387a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/code practice/uva 514 rails.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/code practice/uva 514 rails.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資結/code practice/uva 514 rails.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "255b276f43f960bb",
+  "active": "6635d2e80e387a72",
   "lastOpenFiles": [
+    "資結/code practice/uva 514 rails.md",
+    "conflict-files-obsidian-git.md",
+    "線代/ch3 vector space.md",
+    "線代/ch2 determinant.md",
     "資結/code practice/uva514.py",
     "離散/chapter 3.md",
     "離散/chapter 6.md",
