@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "離散/textbook/ch9 relation.md",
+                "file": "線代/vedio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "離散/textbook/ch9 relation.md",
+                "file": "線代/vedio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "離散/textbook/ch9 relation.md",
+                "file": "線代/vedio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "離散/textbook/ch9 relation.md"
+                "file": "線代/vedio.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   },
   "active": "255b276f43f960bb",
   "lastOpenFiles": [
+    "Xournal++/線代/9. independence, basis, dimension.xopp~",
+    "Xournal++/線代/9. independence, basis, dimension.xopp",
+    "Xournal++/線代",
+    "離散/textbook/ch9 relation.md",
+    "線代/vedio.md",
     "Xournal++/ch9_relation.xopp~",
     "Xournal++/ch9_relation.xopp",
     "離散/chapter 2.md",
-    "離散/textbook/ch9 relation.md",
     "離散/textbook",
     "離散/chapter 6.md",
     "離散/chapter 5.md",
