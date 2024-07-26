@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "255b276f43f960bb",
+  "active": "8a20f951d81b984f",
   "lastOpenFiles": [
     "Xournal++/離散/ch3 排列組合與排容原理.xopp~",
     "Xournal++/離散/ch3 排列組合與排容原理.xopp",
@@ -160,7 +160,7 @@
     "離散/textbook/ch9 relation.md",
     "線代/vedio.md",
     "Xournal++/ch9_relation.xopp~",
-    "Xournal++/ch9_relation.xopp",
+    "Xournal++/離散/ch9_relation.xopp",
     "離散/chapter 2.md",
     "離散/textbook",
     "離散/chapter 6.md",
