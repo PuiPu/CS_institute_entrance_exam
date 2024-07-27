@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "author": "Vinzent",
     "authorUrl": "https://github.com/Vinzent03",
     "id": "obsidian-git",
@@ -7,4 +8,13 @@
     "isDesktopOnly": false,
     "fundingUrl": "https://ko-fi.com/vinzent",
     "version": "2.25.0"
+=======
+    "id": "obsidian-git",
+    "name": "Git",
+    "description": "Backup your vault with Git.",
+    "isDesktopOnly": false,
+    "fundingUrl": "https://ko-fi.com/vinzent",
+    "js": "main.js",
+    "version": "2.24.3"
+>>>>>>> de98d4f344ccef2e81eafe7c66ae5d93bdb7850e
 }

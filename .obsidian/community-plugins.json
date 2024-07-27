@@ -1,5 +1,11 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
+<<<<<<< HEAD
   "obsidian-git"
+=======
+  "obsidian-git",
+  "highlightr-plugin",
+  "dataview"
+>>>>>>> de98d4f344ccef2e81eafe7c66ae5d93bdb7850e
 ]

@@ -77,10 +77,13 @@
     height: auto;
 }
 
+<<<<<<< HEAD
 .is-active .git-tools .buttons > * {
     color: var(--nav-item-color-active);
 }
 
+=======
+>>>>>>> de98d4f344ccef2e81eafe7c66ae5d93bdb7850e
 .git-author {
     color: var(--text-accent);
 }
@@ -554,7 +557,11 @@
     white-space: pre; /* Keep spaces and do not collapse them. */
 }
 
+<<<<<<< HEAD
 @media (max-width: 800px) {
+=======
+@media(max-width:800px){
+>>>>>>> de98d4f344ccef2e81eafe7c66ae5d93bdb7850e
     /* hide git blame gutter not to superpose text */
     .cm-gutterElement.obs-git-blame-gutter {
         display: none;
