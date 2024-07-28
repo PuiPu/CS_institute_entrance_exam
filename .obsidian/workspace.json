@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "70c13be18071afa6",
+    "id": "e9f79c5da2360ac5",
     "type": "split",
     "children": [
       {
-        "id": "6fbc0e9124de39de",
+        "id": "f2a50bb78697bbad",
         "type": "tabs",
         "children": [
           {
-            "id": "689413f149c1151b",
+            "id": "255b276f43f960bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "線代/vedio.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f34d05fa529a0aee",
+    "id": "8bf1d2ab6ee606a9",
     "type": "split",
     "children": [
       {
-        "id": "ca4a86159b726591",
+        "id": "845f2a988dd2aa53",
         "type": "tabs",
         "children": [
           {
-            "id": "ada6ffdff996dd96",
+            "id": "8a20f951d81b984f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "c4ca520134877ceb",
+            "id": "cae7df81011ccd3a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "a0d696fbbe326064",
+            "id": "e24f835ec944e3ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,47 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
-    "id": "77b6f29405fa4a1f",
+    "id": "1ca7a9708a7dac0d",
     "type": "split",
     "children": [
       {
-        "id": "f4302c946f4188a3",
+        "id": "62d30e9e01fffd2d",
         "type": "tabs",
         "children": [
           {
-            "id": "5121838bb08fad44",
+            "id": "88629c8d471715b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "線代/vedio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bc67c7da2f32b161",
+            "id": "dc9a3a0cb2d6af9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "線代/vedio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "db27cbc8dcf0acff",
+            "id": "e916dd3b664b059b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "857e8ea2cd70f289",
+            "id": "21b7ebaa93b780fb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "線代/vedio.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,40 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "689413f149c1151b",
+  "active": "255b276f43f960bb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Xournal++/離散/ch2 關係與函數.xopp~",
     "Xournal++/離散/ch2 關係與函數.xopp",
+    "Xournal++/線代/ch9_relation.xopp",
     "Xournal++/離散/ch3 排列組合與排容原理.xopp~",
-    "Excalidraw/ch4 linked list.md",
+    "Xournal++/離散/ch3 排列組合與排容原理.xopp",
+    "Xournal++/離散",
+    "Xournal++/線代/10. The Four Fundamental Subspaces.xopp~",
+    "Xournal++/線代/10. The Four Fundamental Subspaces.xopp",
+    "Xournal++/線代/9. independence, basis, dimension.xopp~",
+    "Xournal++/線代/9. independence, basis, dimension.xopp",
+    "Xournal++/線代",
     "離散/textbook/ch9 relation.md",
-    "離散/textbook",
-    "離散/chapter 3.md",
-    "資結/code practice/uva514_v1.py",
-    "資結/code practice/uva514.py",
-    "資結/code practice/uva 514 rails.md",
-    "資結/code practice",
-    "資結/ch6 graphs.md",
-    "資結/Note.txt.txt",
     "線代/vedio.md",
+    "Xournal++/ch9_relation.xopp~",
+    "離散/chapter 2.md",
+    "離散/chapter 6.md",
+    "離散/chapter 5.md",
+    "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "資結/code practice/uva 514 rails.md",
     "線代/ch3 vector space.md",
     "線代/ch2 determinant.md",
-    "演算法/graph algorithm.md",
-    "Xournal++/離散/卡特蘭數.xopp",
-    "Xournal++/線代/ch9_relation.xopp",
-    "離散/concept/non-homogeneous solution problem.md",
-    "離散/concept/partial fractional decomposition (calculas).md",
-    "離散/concept/without lose of generality.md",
-    "離散/Central.md",
-    "離散/chapter 2.md",
+    "離散/chapter 3.md",
     "離散/chapter 4.md",
-    "離散/chapter 5.md",
-    "離散/chapter 6.md",
-    "離散/離散.canvas",
-    "資結/ch4 linked lists.md",
-    "資結/ch1 basic concept.md",
-    "Excalidraw/draw.md",
-    "Roam-Highlights.md"
+    "離散/Central.md",
+    "線代/determinant.md",
+    "Excalidraw/discrete math/discrete math mind map.md",
+    "Excalidraw/linear algebra ch2.md",
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
+    "Excalidraw/data structure/ch4 linked list.md",
+    "Excalidraw/data structure/graph.md"
   ]
 }
