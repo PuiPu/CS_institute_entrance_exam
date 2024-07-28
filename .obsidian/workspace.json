@@ -11,8 +11,12 @@
             "id": "689413f149c1151b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "689413f149c1151b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Xournal++/離散/ch2 關係與函數.xopp~",
     "Xournal++/離散/ch2 關係與函數.xopp",
     "Xournal++/離散/ch3 排列組合與排容原理.xopp~",
@@ -159,7 +168,6 @@
     "演算法/graph algorithm.md",
     "Xournal++/離散/卡特蘭數.xopp",
     "Xournal++/線代/ch9_relation.xopp",
-    "Xournal++/離散/ch3 排列組合與排容原理.xopp",
     "離散/concept/non-homogeneous solution problem.md",
     "離散/concept/partial fractional decomposition (calculas).md",
     "離散/concept/without lose of generality.md",
