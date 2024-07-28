@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "183f03cefc27f690",
+        "id": "6fbc0e9124de39de",
         "type": "tabs",
         "children": [
           {
-            "id": "e09613b86e450bc4",
+            "id": "689413f149c1151b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,12 +135,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e09613b86e450bc4",
+  "active": "689413f149c1151b",
   "lastOpenFiles": [
+    "Xournal++/離散/ch2 關係與函數.xopp~",
+    "Xournal++/離散/ch2 關係與函數.xopp",
+    "Xournal++/離散/ch3 排列組合與排容原理.xopp~",
     "Excalidraw/ch4 linked list.md",
     "離散/textbook/ch9 relation.md",
     "離散/textbook",
@@ -156,10 +158,8 @@
     "線代/ch2 determinant.md",
     "演算法/graph algorithm.md",
     "Xournal++/離散/卡特蘭數.xopp",
-    "Xournal++/離散/ch9_relation.xopp",
+    "Xournal++/線代/ch9_relation.xopp",
     "Xournal++/離散/ch3 排列組合與排容原理.xopp",
-    "Xournal++/線代/9. independence, basis, dimension.xopp",
-    "Xournal++/線代/10. The Four Fundamental Subspaces.xopp",
     "離散/concept/non-homogeneous solution problem.md",
     "離散/concept/partial fractional decomposition (calculas).md",
     "離散/concept/without lose of generality.md",
