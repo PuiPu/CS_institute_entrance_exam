@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "線代/ch2 determinant.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e48c03bcf99033b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "線代/ch2 determinant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "線代/ch2 determinant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/ch3 vector space.md"
+                "file": "線代/ch2 determinant.md"
               }
             }
           }
@@ -158,10 +147,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e48c03bcf99033b",
+  "active": "255b276f43f960bb",
   "lastOpenFiles": [
-    "線代/ch2 determinant.md",
     "線代/ch3 vector space.md",
+    "線代/ch2 determinant.md",
     "離散/chapter 3.md",
     "離散/chapter 6.md",
     "離散/chapter 5.md",
