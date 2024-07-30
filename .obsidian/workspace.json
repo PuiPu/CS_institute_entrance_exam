@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7af45b8224b1294b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/ch2 determinant.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/ch2 determinant.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/ch2 determinant.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,10 +160,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "255b276f43f960bb",
+  "active": "7af45b8224b1294b",
   "lastOpenFiles": [
-    "線代/ch3 vector space.md",
     "線代/ch2 determinant.md",
+    "conflict-files-obsidian-git.md",
+    "離散/textbook/ch9 relation.md",
+    "離散/textbook",
+    "資結/code practice/uva514_v1.py",
+    "資結/code practice/uva514.py",
+    "線代/vedio.md",
+    "Xournal++/離散/卡特蘭數.xopp",
+    "Xournal++/離散/ch3 排列組合與排容原理.xopp",
+    "Xournal++/離散/ch2 關係與函數.xopp",
+    "Xournal++/離散",
+    "Xournal++/線代/ch9_relation.xopp",
+    "Xournal++/線代/9. independence, basis, dimension.xopp",
+    "Xournal++/線代/10. The Four Fundamental Subspaces.xopp",
+    "線代/ch3 vector space.md",
     "離散/chapter 3.md",
     "離散/chapter 6.md",
     "離散/chapter 5.md",
