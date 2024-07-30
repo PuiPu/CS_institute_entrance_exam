@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e48c03bcf99033b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "255b276f43f960bb",
+  "active": "7e48c03bcf99033b",
   "lastOpenFiles": [
     "線代/ch2 determinant.md",
     "線代/ch3 vector space.md",
