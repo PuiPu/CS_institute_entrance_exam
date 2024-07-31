@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a578f1ee3ecfc65a",
+        "id": "de62c083fcf5f176",
         "type": "tabs",
         "children": [
           {
-            "id": "491ec6eb6a032278",
+            "id": "98c8bac865dae579",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "491ec6eb6a032278",
+  "active": "98c8bac865dae579",
   "lastOpenFiles": [
+    "演算法/code practice/897. Increasing Order Search Tree.md",
+    "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
     "picture/Diagram.svg",
     "picture/dasd.svg",
     "Excalidraw/Drawing 2024-07-31 21.53.22.excalidraw.md",
@@ -152,7 +154,6 @@
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Untitled.md",
-    "演算法/code practice/897. Increasing Order Search Tree.md",
     "演算法/code practice/Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
     "Excalidraw/discrete math/discrete math mind map.md",
