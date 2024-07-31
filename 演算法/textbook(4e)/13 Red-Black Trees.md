@@ -14,6 +14,13 @@
 
 ![[Pasted image 20240730160501.png]]
 ![[Pasted image 20240730160824.png]]
+```
+left rotate(x, y)
+	1. replace x with y
+	2. y.left = x
+	3. x.right = y.left (because BST property : y.left.data > x.right.data)
+```
+
 # 13.3 Insertion
 ## modify...
 ![[Pasted image 20240730161919.png]]
