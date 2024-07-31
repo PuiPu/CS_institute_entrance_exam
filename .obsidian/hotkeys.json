@@ -34,5 +34,14 @@
       ],
       "key": "D"
     }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3141d1dd8ae8d88",
+        "id": "a578f1ee3ecfc65a",
         "type": "tabs",
         "children": [
           {
-            "id": "4862a81e8c0f975b",
+            "id": "491ec6eb6a032278",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -50,13 +50,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bf29be19e4e2f033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 732.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -130,48 +140,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24f835ec944e3ed",
+  "active": "491ec6eb6a032278",
   "lastOpenFiles": [
+    "picture/Diagram.svg",
+    "picture/dasd.svg",
+    "Excalidraw/Drawing 2024-07-31 21.53.22.excalidraw.md",
+    "picture/Diagram.svg.xml",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-07-31 21.51.42.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Untitled.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
-    "Excalidraw/Drawing 2024-07-31 21.06.41.excalidraw.md",
-    "演算法/code practice/Untitled Diagram 1.svg",
     "演算法/code practice/Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
+    "Excalidraw/discrete math/discrete math mind map.md",
+    "picture/test_0.svg",
+    "picture/test.svg",
+    "Excalidraw/linear algebra ch2.md",
+    "Excalidraw/Drawing 2024-07-31 21.06.41.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "演算法/code practice/test.dio.md",
+    "picture/hello.svg",
+    "Excalidraw/data structure/ch4 linked list.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "演算法/code practice/Untitled Diagram 1.svg",
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
     "picture/Ink/Drawing/2024.7.31 - 20.56pm.drawing",
     "picture/Ink/Writing/2024.7.31 - 21.05pm.writing",
     "picture/Ink/Writing",
     "picture/Ink/Drawing",
     "picture/Ink",
-    "picture/Pasted image 20240731204953.png",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
     "演算法/code practice",
     "演算法/Untitled.md",
     "線代/ch2 determinant.md",
-    "picture/Pasted image 20240730160501.png",
     "picture",
-    "picture/Pasted image 20240730162000.png",
-    "picture/Pasted image 20240730162103.png",
-    "picture/Pasted image 20240730161919.png",
-    "picture/Pasted image 20240730160824.png",
     "線代/vedio.md",
-    "資結/code practice/red_blacktree.c++",
-    "演算法/textbook(4e)",
-    "Xournal++/離散/ch2 關係與函數.xopp",
     "離散/textbook/ch9 relation.md",
     "離散/chapter 2.md",
     "離散/chapter 6.md",
     "離散/chapter 5.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "資結/code practice/uva 514 rails.md",
     "線代/ch3 vector space.md",
-    "離散/chapter 3.md",
-    "離散/chapter 4.md",
-    "離散/Central.md",
-    "線代/determinant.md",
-    "Excalidraw/discrete math/discrete math mind map.md",
-    "Excalidraw/linear algebra ch2.md",
-    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
-    "Excalidraw/data structure/ch4 linked list.md",
-    "Excalidraw/data structure/graph.md"
+    "離散/chapter 3.md"
   ]
 }
