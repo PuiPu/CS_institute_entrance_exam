@@ -1,6 +1,7 @@
 # 3-3
 ## 問題
 1. 子空間畫成 van diagram 就一定包含在裡面嗎 ?
+	ANS : subspace 指的是 dimension 會小於原空間，而不是只實際的大小  ex. subspace 可以等於本身的 space
 
 ```handdrawn-ink
 {

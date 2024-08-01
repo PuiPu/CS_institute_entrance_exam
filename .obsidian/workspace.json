@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07aadc1ad47d1001",
+        "id": "1326056e3f026399",
         "type": "tabs",
         "children": [
           {
-            "id": "957d1bb86740dcf5",
+            "id": "8e78a50c26ec3661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "離散/chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "離散/chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "離散/chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/ch3 vector space.md"
+                "file": "離散/chapter 2.md"
               }
             }
           }
@@ -146,39 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "957d1bb86740dcf5",
+  "active": "8e78a50c26ec3661",
   "lastOpenFiles": [
+    "線代/ch2 determinant.md",
+    "線代/ch3 vector space.md",
+    "離散/chapter 2.md",
+    "TEXTBOOK/Discrete Mathematics and Its Applications, Eighth Edition.pdf",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
+    "TEXTBOOK/Discrete Mathematics and Its Applications 7th Edition.pdf",
+    "TEXTBOOK/operating-system-concepts-10th.pdf",
+    "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
+    "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "TEXTBOOK/Computer Organization and Design 5th.pdf",
+    "TEXTBOOK",
     "picture/Ink/Drawing/2024.8.1 - 10.27am.drawing",
     "picture/Ink/Drawing/2024.8.1 - 10.24am.drawing",
-    "picture/Ink/Drawing/2024.8.1 - 10.21am.drawing",
-    "線代/ch2 determinant.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
-    "線代/ch3 vector space.md",
     "conflict-files-obsidian-git.md",
-    "演算法/code practice",
     "picture/Pasted image 20240731204953.png",
     "picture/Pasted image 20240730162103.png",
     "picture/Pasted image 20240730162000.png",
-    "picture/Ink/Writing/2024.7.31 - 21.05pm.writing",
-    "picture/Ink/Drawing/2024.7.31 - 20.56pm.drawing",
-    "picture/Ink/Writing",
-    "picture/Ink/Drawing",
     "picture/Pasted image 20240730161919.png",
     "picture/Pasted image 20240730160824.png",
     "picture/Pasted image 20240730160501.png",
-    "picture/Ink",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
-    "picture",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Drawing 2024-07-31 21.53.22.excalidraw.md",
     "Excalidraw/Drawing 2024-07-31 21.51.42.excalidraw.md",
     "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
-    "Pasted image 20240731164124.png",
+    "picture/Pasted image 20240731164124.png",
     "Pasted image 20240730162103.png",
     "演算法/graph algorithm.md",
     "資結/ch4 linked lists.md",
@@ -189,7 +189,6 @@
     "離散/chapter 6.md",
     "離散/chapter 5.md",
     "離散/chapter 4.md",
-    "離散/chapter 2.md",
     "離散/Central.md",
     "Excalidraw/discrete math/discrete math mind map.md",
     "Excalidraw/linear algebra ch2.md",
