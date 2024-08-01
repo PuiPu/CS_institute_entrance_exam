@@ -36,7 +36,7 @@
   "defaultPenMode": "never",
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
-  "renderImageInHoverPreviewForMDNotes": false,
+  "renderImageInHoverPreviewForMDNotes": true,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
@@ -742,7 +742,7 @@
       }
     }
   },
-  "slidingPanesSupport": false,
+  "slidingPanesSupport": true,
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,

@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "picture",
+  "showRibbon": true
 }
