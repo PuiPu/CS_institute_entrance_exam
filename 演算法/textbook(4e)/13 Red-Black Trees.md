@@ -26,4 +26,12 @@ left rotate(x, y)
 ![[Pasted image 20240730161919.png]]
 ## to ...
 ![[Pasted image 20240730162000.png]]
+## fixup
 ![[Pasted image 20240730162103.png]]
+![[Pasted image 20240731164124.png]]
+### case 1
+> violate 
+> 	1. property 2 : { root is black }
+> 	2. property 4 : { red node cannot have a red child}
+> solution
+> 	1. 
