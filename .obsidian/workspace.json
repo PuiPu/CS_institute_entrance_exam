@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "演算法/textbook(4e)/13 Red-Black Trees.md",
+                "file": "線代/ch3 vector space.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法/textbook(4e)/13 Red-Black Trees.md",
+                "file": "線代/ch3 vector space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "演算法/textbook(4e)/13 Red-Black Trees.md",
+                "file": "線代/ch3 vector space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演算法/textbook(4e)/13 Red-Black Trees.md"
+                "file": "線代/ch3 vector space.md"
               }
             }
           }
@@ -149,6 +148,9 @@
   },
   "active": "43789c3de6acc7f9",
   "lastOpenFiles": [
+    "線代/ch2 determinant.md",
+    "線代/ch3 vector space.md",
+    "演算法/textbook(4e)/13 Red-Black Trees.md",
     "Pasted image 20240731164124.png",
     "資結/code practice/red_blacktree.c++",
     "資結/code practice/red_blacktree.py",
@@ -156,14 +158,11 @@
     "Pasted image 20240730162000.png",
     "Pasted image 20240730161919.png",
     "Pasted image 20240730160501.png",
-    "演算法/textbook(4e)/13 Red-Black Trees.md",
     "Pasted image 20240730160824.png",
     "演算法/graph algorithm.md",
     "演算法/textbook(4e)",
     "資結/ch4 linked lists.md",
     "資結/ch6 graphs.md",
-    "線代/ch3 vector space.md",
-    "線代/ch2 determinant.md",
     "conflict-files-obsidian-git.md",
     "離散/textbook/ch9 relation.md",
     "離散/textbook",
