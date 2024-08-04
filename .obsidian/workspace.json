@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "離散/chapter 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "離散/chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/ch3 vector space.md",
+                "file": "離散/chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/ch3 vector space.md"
+                "file": "離散/chapter 2.md"
               }
             }
           }
@@ -148,11 +149,11 @@
   },
   "active": "8e78a50c26ec3661",
   "lastOpenFiles": [
+    "線代/ch3 vector space.md",
     "線代/ch2 determinant.md",
     "離散/chapter 2.md",
     "Xournal++/演算法/red_black_tree.xopp",
     "Xournal++/演算法",
-    "線代/ch3 vector space.md",
     "TEXTBOOK/Discrete Mathematics and Its Applications, Eighth Edition.pdf",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "TEXTBOOK/Discrete Mathematics and Its Applications 7th Edition.pdf",
