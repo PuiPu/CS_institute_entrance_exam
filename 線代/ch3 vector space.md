@@ -41,3 +41,16 @@
 	1. 如果要知道是誰跟誰組成 linear combination 的話，要把 vector 化成行向量，接著做 rref，如果有 0 列，看其他列的倍數就知道是其他 vectors 的線性組合的常數 ?
 - linear independent
 	1. 如果化成 row matrix 後做 row operation 不能得到 0 列，就代表 linear independent
+# 3-4
+## basis
+### 問題
+1. 怎麼把 
+$$
+span(
+\begin{bmatrix}1&0\\0&0\end{bmatrix},
+\begin{bmatrix}0&1\\1&0\end{bmatrix},
+\begin{bmatrix}0&0\\0&1\end{bmatrix}
+)
+$$
+flatten 並且化成 (1)行向量矩陣 (2)列向量矩陣，並且判斷 dependency ?
+2. 
