@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md",
+                "file": "離散/textbook/ch10 graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md",
+                "file": "離散/textbook/ch10 graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md",
+                "file": "離散/textbook/ch10 graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md"
+                "file": "離散/textbook/ch10 graph.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "39a74463255907ce",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "picture/Ink/Drawing/2024.8.11 - 15.12pm.drawing",
     "線代/textbook/ch4 linear transformation.md",
+    "離散/textbook/ch10 graph.md",
+    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
     "picture/Ink/Drawing/2024.8.11 - 10.53am.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.52am.drawing",
@@ -191,7 +193,6 @@
     "離散/chapter 5.md",
     "離散/chapter 4.md",
     "離散/Central.md",
-    "Excalidraw/discrete math/discrete math mind map.md",
-    "Excalidraw/linear algebra ch2.md"
+    "Excalidraw/discrete math/discrete math mind map.md"
   ]
 }
