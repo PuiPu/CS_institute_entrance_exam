@@ -53,4 +53,14 @@ span(
 )
 $$
 flatten 並且化成 (1)行向量矩陣 (2)列向量矩陣，並且判斷 dependency ?
-2. 
+## 兩定理
+### 生成裁減定理
+> 1. 原本的 vector space 可以 span V，但是不為線性獨立集，所以並非 basis
+> 2. 因此，可以透過刪減 u，來得到 linear independent 的 vector
+> 3. 這樣就符合 basis 的定義 (span & linear independent)
+### 獨立擴增定理
+> 1. 雖然原本就是 linear independent 的 vector，但是因為沒有 span V，所以還可以找到 $$u\not\in span(S),\: S\:\cup u\:is\: linear\:independent\:set$$
+> 2. 所以一直加，就可以找到 span V 的 set
+> 3. 這樣就符合 basis 的定義
+---
+從 thm 3-18 Steinitz 代換定理的證明後面就不懂了... (2024/8/10)

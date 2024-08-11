@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1326056e3f026399",
+        "id": "6e3bc74719d147a3",
         "type": "tabs",
         "children": [
           {
-            "id": "8e78a50c26ec3661",
+            "id": "082bf08affa48fd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "離散/chapter 2.md",
+                "file": "線代/vedio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "離散/chapter 2.md",
+                "file": "線代/vedio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "離散/chapter 2.md",
+                "file": "線代/vedio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "離散/chapter 2.md"
+                "file": "線代/vedio.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e78a50c26ec3661",
+  "active": "082bf08affa48fd0",
   "lastOpenFiles": [
     "線代/ch3 vector space.md",
-    "線代/ch2 determinant.md",
     "離散/chapter 2.md",
+    "線代/ch2 determinant.md",
     "Xournal++/演算法/red_black_tree.xopp",
     "Xournal++/演算法",
     "TEXTBOOK/Discrete Mathematics and Its Applications, Eighth Edition.pdf",
