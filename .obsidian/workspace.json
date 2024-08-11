@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e13910e90663c2e",
+        "id": "de62c083fcf5f176",
         "type": "tabs",
         "children": [
           {
-            "id": "39a74463255907ce",
+            "id": "98c8bac865dae579",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a20f951d81b984f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "cae7df81011ccd3a",
             "type": "leaf",
             "state": {
@@ -64,12 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bf29be19e4e2f033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 420.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -146,53 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39a74463255907ce",
+  "active": "98c8bac865dae579",
   "lastOpenFiles": [
-    "picture/Ink/Drawing/2024.8.11 - 15.12pm.drawing",
-    "線代/textbook/ch4 linear transformation.md",
+    "演算法/textbook(4e)/13 Red-Black Trees.md",
     "離散/textbook/ch10 graph.md",
-    "conflict-files-obsidian-git.md",
-    "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "線代/textbook/ch4 linear transformation.md",
+    "線代/textbook",
+    "picture/Ink/Drawing/2024.8.11 - 15.12pm.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.53am.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.52am.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.48am.drawing",
-    "線代/vedio.md",
-    "線代/textbook",
-    "線代/ch3 vector space.md",
-    "離散/chapter 2.md",
-    "線代/ch2 determinant.md",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
+    "Xournal++/演算法/red_black_tree.xopp~",
     "Xournal++/演算法/red_black_tree.xopp",
     "Xournal++/演算法",
-    "TEXTBOOK/Discrete Mathematics and Its Applications, Eighth Edition.pdf",
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
-    "TEXTBOOK/Discrete Mathematics and Its Applications 7th Edition.pdf",
+    "演算法/graph algorithm.md",
+    "picture/Pasted image 20240731164124.png",
+    "picture/Ink/Drawing/2024.8.1 - 10.27am.drawing",
     "演算法/code practice/897. Increasing Order Search Tree.md",
-    "picture/Pasted image 20240731204953.png",
-    "picture/Pasted image 20240730162103.png",
-    "picture/Pasted image 20240730162000.png",
-    "picture/Pasted image 20240730161919.png",
-    "picture/Pasted image 20240730160824.png",
-    "picture/Pasted image 20240730160501.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
+    "picture/Diagram.svg",
+    "picture/dasd.svg",
+    "Excalidraw/Drawing 2024-07-31 21.53.22.excalidraw.md",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-07-31 21.51.42.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Drawing 2024-07-31 21.53.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-31 21.51.42.excalidraw.md",
+    "Untitled.md",
+    "演算法/code practice/Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
-    "演算法/textbook(4e)/13 Red-Black Trees.md",
-    "picture/Pasted image 20240731164124.png",
-    "Pasted image 20240730162103.png",
-    "演算法/graph algorithm.md",
-    "資結/ch4 linked lists.md",
-    "資結/ch6 graphs.md",
+    "Excalidraw/discrete math/discrete math mind map.md",
+    "picture/test_0.svg",
+    "picture/test.svg",
+    "Excalidraw/linear algebra ch2.md",
+    "Excalidraw/Drawing 2024-07-31 21.06.41.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "演算法/code practice/test.dio.md",
+    "picture/hello.svg",
+    "Excalidraw/data structure/ch4 linked list.md",
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
+    "演算法/Untitled.md",
+    "線代/ch2 determinant.md",
+    "線代/vedio.md",
     "離散/textbook/ch9 relation.md",
-    "離散/chapter 3.md",
+    "離散/chapter 2.md",
     "離散/chapter 6.md",
     "離散/chapter 5.md",
-    "離散/chapter 4.md",
-    "離散/Central.md",
-    "Excalidraw/discrete math/discrete math mind map.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
