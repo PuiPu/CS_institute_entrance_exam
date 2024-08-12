@@ -11,8 +11,12 @@
             "id": "3615ca6b1ccab5fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "離散/textbook/ch10 graph.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "離散/textbook/ch10 graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "離散/textbook/ch10 graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "離散/textbook/ch10 graph.md"
+              }
             }
           }
         ]
