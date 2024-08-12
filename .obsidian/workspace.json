@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "離散/textbook/ch10 graph.md",
+                "file": "演算法/code practice/897. Increasing Order Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "離散/textbook/ch10 graph.md",
+                "file": "演算法/code practice/897. Increasing Order Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "離散/textbook/ch10 graph.md",
+                "file": "演算法/code practice/897. Increasing Order Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "離散/textbook/ch10 graph.md"
+                "file": "演算法/code practice/897. Increasing Order Search Tree.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "3615ca6b1ccab5fd",
   "lastOpenFiles": [
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "離散/textbook/ch10 graph.md",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
     "線代/textbook/ch4 linear transformation.md",
     "線代/textbook",
