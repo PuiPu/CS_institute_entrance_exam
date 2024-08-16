@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "離散/textbook/ch10 graph.md",
+                "file": "線代/ch4 linear transformation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "離散/textbook/ch10 graph.md",
+                "file": "線代/ch4 linear transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "離散/textbook/ch10 graph.md",
+                "file": "線代/ch4 linear transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "離散/textbook/ch10 graph.md"
+                "file": "線代/ch4 linear transformation.md"
               }
             }
           }
@@ -143,15 +143,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "39a74463255907ce",
   "lastOpenFiles": [
+    "離散/textbook/ch10 graph.md",
+    "線代/ch4 linear transformation.md",
+    "vault template/Cornell notes template.md",
+    "vault template",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "picture/Ink/Drawing/2024.8.11 - 15.12pm.drawing",
     "線代/textbook/ch4 linear transformation.md",
-    "離散/textbook/ch10 graph.md",
     "conflict-files-obsidian-git.md",
     "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
     "picture/Ink/Drawing/2024.8.11 - 10.53am.drawing",
@@ -164,8 +168,6 @@
     "線代/ch2 determinant.md",
     "Xournal++/演算法/red_black_tree.xopp",
     "Xournal++/演算法",
-    "TEXTBOOK/Discrete Mathematics and Its Applications, Eighth Edition.pdf",
-    "TEXTBOOK/Discrete Mathematics and Its Applications 7th Edition.pdf",
     "演算法/code practice/897. Increasing Order Search Tree.md",
     "picture/Pasted image 20240731204953.png",
     "picture/Pasted image 20240730162103.png",
@@ -192,7 +194,6 @@
     "離散/chapter 6.md",
     "離散/chapter 5.md",
     "離散/chapter 4.md",
-    "離散/Central.md",
-    "Excalidraw/discrete math/discrete math mind map.md"
+    "離散/Central.md"
   ]
 }
