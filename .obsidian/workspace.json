@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "19ddad96846c6877",
+        "id": "c4b9efd79f4a0da3",
         "type": "tabs",
         "children": [
           {
-            "id": "3615ca6b1ccab5fd",
+            "id": "0fc7cb6efa9228fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "演算法/code practice/897. Increasing Order Search Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法/code practice/897. Increasing Order Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "演算法/code practice/897. Increasing Order Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "演算法/code practice/897. Increasing Order Search Tree.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3615ca6b1ccab5fd",
+  "active": "0fc7cb6efa9228fd",
   "lastOpenFiles": [
-    "線代/ch4 linear transformation.md",
     "vault template/Cornell notes template.md",
+    "演算法/code practice/897. Increasing Order Search Tree.md",
+    "線代/ch4 linear transformation.md",
     "vault template",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "離散/textbook/ch10 graph.md",
@@ -166,7 +159,6 @@
     "Xournal++/演算法",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
-    "演算法/code practice/897. Increasing Order Search Tree.md",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
     "picture/Diagram.svg",
     "picture/dasd.svg",
