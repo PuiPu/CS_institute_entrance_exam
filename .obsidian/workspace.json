@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b9efd79f4a0da3",
+        "id": "1ae2ef2d210975af",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc7cb6efa9228fd",
+            "id": "e5b359ad39ecaf75",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,6 +131,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -139,8 +140,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fc7cb6efa9228fd",
+  "active": "e5b359ad39ecaf75",
   "lastOpenFiles": [
+    "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
     "線代/ch4 linear transformation.md",
@@ -185,7 +187,6 @@
     "線代/ch2 determinant.md",
     "線代/vedio.md",
     "離散/textbook/ch9 relation.md",
-    "離散/chapter 2.md",
-    "離散/chapter 6.md"
+    "離散/chapter 2.md"
   ]
 }
