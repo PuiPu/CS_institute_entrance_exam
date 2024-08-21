@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "894479b3edb445a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/video.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/video.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/video.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b359ad39ecaf75",
+  "active": "894479b3edb445a4",
   "lastOpenFiles": [
+    "線代/video.md",
+    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
@@ -166,7 +181,6 @@
     "picture/Ink/Drawing/2024.8.11 - 10.48am.drawing",
     "Xournal++/演算法/red_black_tree.xopp~",
     "Xournal++/演算法/red_black_tree.xopp",
-    "Xournal++/演算法",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
@@ -193,7 +207,6 @@
     "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
     "演算法/Untitled.md",
     "線代/ch2 determinant.md",
-    "線代/video.md",
     "離散/textbook/ch9 relation.md",
     "離散/chapter 2.md"
   ]
