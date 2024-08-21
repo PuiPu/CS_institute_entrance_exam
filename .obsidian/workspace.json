@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/ch4 linear transformation.md",
-                "mode": "source",
+                "file": "線代/vedio.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/ch4 linear transformation.md",
+                "file": "線代/vedio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/ch4 linear transformation.md",
+                "file": "線代/vedio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/ch4 linear transformation.md"
+                "file": "線代/vedio.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "39a74463255907ce",
   "lastOpenFiles": [
+    "線代/ch4 linear transformation.md",
     "線代/ch2 determinant.md",
     "線代/ch3 vector space.md",
-    "線代/ch4 linear transformation.md",
     "離散/textbook/ch10 graph.md",
     "vault template/Cornell notes template.md",
     "vault template",
