@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1992ac5050e7961d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "線代/ch4 linear transformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/vedio.md",
+                "file": "線代/ch4 linear transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/vedio.md",
+                "file": "線代/ch4 linear transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/vedio.md"
+                "file": "線代/ch4 linear transformation.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39a74463255907ce",
+  "active": "1992ac5050e7961d",
   "lastOpenFiles": [
-    "線代/ch4 linear transformation.md",
     "線代/vedio.md",
+    "conflict-files-obsidian-git.md",
+    "線代/ch4 linear transformation.md",
     "線代/ch2 determinant.md",
     "線代/ch3 vector space.md",
     "離散/textbook/ch10 graph.md",
@@ -159,7 +173,6 @@
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "picture/Ink/Drawing/2024.8.11 - 15.12pm.drawing",
     "線代/textbook/ch4 linear transformation.md",
-    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
     "picture/Ink/Drawing/2024.8.11 - 10.53am.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.52am.drawing",
