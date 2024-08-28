@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md",
+                "file": "線代/video.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md",
+                "file": "線代/video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md",
+                "file": "線代/video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/textbook/ch4 linear transformation.md"
+                "file": "線代/video.md"
               }
             }
           }
@@ -150,13 +150,11 @@
   },
   "active": "e5b359ad39ecaf75",
   "lastOpenFiles": [
-    "線代/ch2 determinant.md",
-    "線代/ch3 vector space.md",
-    "線代/ch4 linear transformation.md",
-    "線代/video.md",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "Xournal++/線代/14. Orthogonal Vectors and Subspaces.xopp~",
     "Xournal++/線代/14. Orthogonal Vectors and Subspaces.xopp",
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
+    "線代/ch4 linear transformation.md",
+    "線代/video.md",
     "conflict-files-obsidian-git.md",
     "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "vault template/Cornell notes template.md",
@@ -170,6 +168,7 @@
     "picture/Ink/Drawing/2024.8.11 - 10.53am.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.52am.drawing",
     "picture/Ink/Drawing/2024.8.11 - 10.48am.drawing",
+    "Xournal++/演算法/red_black_tree.xopp~",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
@@ -195,6 +194,7 @@
     "Excalidraw/data structure/ch4 linked list.md",
     "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
     "演算法/Untitled.md",
+    "線代/ch2 determinant.md",
     "離散/textbook/ch9 relation.md"
   ]
 }
