@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "線代/video.md",
+                "file": "資結/ch5 trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/video.md",
+                "file": "資結/ch5 trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/video.md",
+                "file": "資結/ch5 trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/video.md"
+                "file": "資結/ch5 trees.md"
               }
             }
           }
@@ -150,10 +150,14 @@
   },
   "active": "e5b359ad39ecaf75",
   "lastOpenFiles": [
+    "資結/ch6 graphs.md",
+    "資結/ch5 trees.md",
+    "資結/ch4 linked lists.md",
+    "線代/video.md",
+    "Xournal++/線代/31. Change of Basis; Image Compression.xopp~",
     "Xournal++/線代/31. Change of Basis; Image Compression.xopp",
     "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp~",
     "conflict-files-obsidian-git.md",
-    "線代/video.md",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp",
     "Xournal++/線代/15. Projections onto Subspaces.xopp~",
@@ -164,11 +168,9 @@
     "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
-    "vault template",
     "離散/textbook/ch10 graph.md",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
     "線代/textbook/ch4 linear transformation.md",
-    "線代/textbook",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
@@ -193,8 +195,6 @@
     "picture/hello.svg",
     "Excalidraw/data structure/ch4 linked list.md",
     "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
-    "演算法/Untitled.md",
-    "線代/ch2 determinant.md",
-    "離散/textbook/ch9 relation.md"
+    "演算法/Untitled.md"
   ]
 }
