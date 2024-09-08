@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "611a2f55022a35ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "線代/video.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "線代/video.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "線代/video.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf29be19e4e2f033",
+  "active": "611a2f55022a35ef",
   "lastOpenFiles": [
+    "線代/video.md",
+    "conflict-files-obsidian-git.md",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp",
     "Xournal++/線代/15. Projections onto Subspaces.xopp~",
     "Xournal++/線代/15. Projections onto Subspaces.xopp",
     "Xournal++/線代/14. Orthogonal Vectors and Subspaces.xopp~",
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "Xournal++/線代/14. Orthogonal Vectors and Subspaces.xopp",
     "線代/ch4 linear transformation.md",
-    "線代/video.md",
-    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
@@ -168,7 +181,6 @@
     "線代/textbook/ch4 linear transformation.md",
     "線代/textbook",
     "picture/Ink/Drawing/2024.8.11 - 15.12pm.drawing",
-    "picture/Ink/Drawing/2024.8.11 - 10.53am.drawing",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
