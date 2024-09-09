@@ -148,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b359ad39ecaf75",
+  "active": "bf29be19e4e2f033",
   "lastOpenFiles": [
+    "資結/code practice/textbook practice/p211.cpp",
+    "資結/code practice/textbook practice",
     "資結/ch5 trees.md",
     "資結/ch6 graphs.md",
     "資結/ch4 linked lists.md",
@@ -165,7 +167,6 @@
     "Xournal++/線代/14. Orthogonal Vectors and Subspaces.xopp~",
     "Xournal++/線代/14. Orthogonal Vectors and Subspaces.xopp",
     "線代/ch4 linear transformation.md",
-    "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
     "離散/textbook/ch10 graph.md",
@@ -194,7 +195,6 @@
     "演算法/code practice/test.dio.md",
     "picture/hello.svg",
     "Excalidraw/data structure/ch4 linked list.md",
-    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md",
-    "演算法/Untitled.md"
+    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md"
   ]
 }
