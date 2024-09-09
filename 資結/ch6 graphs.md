@@ -32,7 +32,7 @@
 		b. directed graph
 			1. in-degree : head
 			2. out-degree : tail
-
+ 
 # undirected graph : connected
 	1. edge (u,v) is connected, then...
 		a. there is a path from u to v (v to u)
