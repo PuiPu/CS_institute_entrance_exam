@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資結/ch5 trees.md",
+                "file": "資結/ch6 graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/ch5 trees.md",
+                "file": "資結/ch6 graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/ch5 trees.md",
+                "file": "資結/ch6 graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資結/ch5 trees.md"
+                "file": "資結/ch6 graphs.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "e5b359ad39ecaf75",
   "lastOpenFiles": [
-    "資結/ch6 graphs.md",
     "資結/ch5 trees.md",
+    "資結/ch6 graphs.md",
     "資結/ch4 linked lists.md",
     "線代/video.md",
     "Xournal++/線代/31. Change of Basis; Image Compression.xopp~",
