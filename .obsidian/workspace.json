@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4639af218625c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goal/線代目標.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 422.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/ch6 graphs.md",
+                "file": "Goal/線代目標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/ch6 graphs.md",
+                "file": "Goal/線代目標.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,8 +139,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資結/ch6 graphs.md"
+                "file": "Goal/線代目標.md"
               }
+            }
+          },
+          {
+            "id": "8b1e092792517384",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -148,24 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b359ad39ecaf75",
+  "active": "f4639af218625c78",
   "lastOpenFiles": [
-    "Xournal++/線代/17. Orthogonal Matrices and Gram-Schmidt.xopp~",
-    "Xournal++/線代/17. Orthogonal Matrices and Gram-Schmidt.xopp",
-    "資結/code practice/textbook practice/p211.cpp",
-    "資結/code practice/textbook practice",
-    "資結/ch5 trees.md",
+    "Goal/web crawl/webcrawl.py",
+    "Goal/web crawl/chromedriver.exe",
+    "Goal/web crawl",
+    "Goal/webcrawl.py",
+    "Goal/chromedriver.exe",
+    "webcrawl.py",
+    "THIRD_PARTY_NOTICES.chromedriver",
+    "LICENSE.chromedriver",
+    "chromedriver.exe",
+    "離散/chromedriver.exe",
+    "webcral.py",
     "資結/ch6 graphs.md",
+    "Goal/線代目標.md",
+    "資結/ch5 trees.md",
     "資結/ch4 linked lists.md",
     "線代/video.md",
-    "Xournal++/線代/31. Change of Basis; Image Compression.xopp~",
-    "Xournal++/線代/31. Change of Basis; Image Compression.xopp",
-    "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp~",
     "conflict-files-obsidian-git.md",
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
-    "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp",
-    "Xournal++/線代/15. Projections onto Subspaces.xopp~",
-    "Xournal++/線代/15. Projections onto Subspaces.xopp",
     "線代/ch4 linear transformation.md",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
@@ -183,7 +205,6 @@
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
-    "Untitled.md",
     "演算法/code practice/Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
     "Excalidraw/discrete math/discrete math mind map.md",

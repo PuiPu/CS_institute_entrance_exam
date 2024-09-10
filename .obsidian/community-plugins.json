@@ -3,5 +3,7 @@
   "ink",
   "highlightr-plugin",
   "obsidian-image-toolkit",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "calendar"
 ]
