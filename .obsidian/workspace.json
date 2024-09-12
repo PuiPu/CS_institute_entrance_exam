@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goal/線代目標.md",
-                "mode": "preview",
+                "file": "資結/ch5 trees.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goal/線代目標.md",
+                "file": "資結/ch5 trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goal/線代目標.md",
+                "file": "資結/ch5 trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goal/線代目標.md"
+                "file": "資結/ch5 trees.md"
               }
             }
           },
@@ -169,8 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf29be19e4e2f033",
+  "active": "f4639af218625c78",
   "lastOpenFiles": [
+    "picture/Ink/Drawing/2024.9.12 - 14.29pm.drawing",
+    "資結/ch6 graphs.md",
+    "Goal/線代目標.md",
     "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp~",
     "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp",
     "Goal/web crawl/webcrawl.py",
@@ -181,9 +184,6 @@
     "webcrawl.py",
     "THIRD_PARTY_NOTICES.chromedriver",
     "LICENSE.chromedriver",
-    "chromedriver.exe",
-    "資結/ch6 graphs.md",
-    "Goal/線代目標.md",
     "資結/ch5 trees.md",
     "資結/ch4 linked lists.md",
     "線代/video.md",
