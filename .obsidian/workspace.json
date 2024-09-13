@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4639af218625c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "讀書會/數學/離散1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讀書會/數學/離散1.md",
+                "file": "資結/ch6 graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "讀書會/數學/離散1.md",
+                "file": "資結/ch6 graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "讀書會/數學/離散1.md"
+                "file": "資結/ch6 graphs.md"
               }
             }
           },
@@ -170,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4639af218625c78",
+  "active": "e5b359ad39ecaf75",
   "lastOpenFiles": [
-    "Untitled.md",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "讀書會/數學/離散1.md",
+    "Untitled.md",
     "讀書會/硬體",
     "讀書會/軟體",
     "讀書會/數學",
@@ -216,7 +203,6 @@
     "Excalidraw/Drawing 2024-07-31 21.06.41.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "演算法/code practice/test.dio.md",
-    "picture/hello.svg",
-    "Excalidraw/data structure/ch4 linked list.md"
+    "picture/hello.svg"
   ]
 }
