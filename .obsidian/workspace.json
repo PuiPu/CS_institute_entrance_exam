@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "資結/ch5 trees.md",
+                "file": "讀書會/數學/離散1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 422.5,
+    "collapsed": true
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/ch5 trees.md",
+                "file": "讀書會/數學/離散1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/ch5 trees.md",
+                "file": "讀書會/數學/離散1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資結/ch5 trees.md"
+                "file": "讀書會/數學/離散1.md"
               }
             }
           },
@@ -171,6 +172,13 @@
   },
   "active": "f4639af218625c78",
   "lastOpenFiles": [
+    "Untitled.md",
+    "讀書會/數學/離散1.md",
+    "讀書會/硬體",
+    "讀書會/軟體",
+    "讀書會/數學",
+    "資結/ch5 trees.md",
+    "讀書會",
     "picture/Ink/Drawing/2024.9.12 - 14.29pm.drawing",
     "資結/ch6 graphs.md",
     "Goal/線代目標.md",
@@ -179,12 +187,6 @@
     "Goal/web crawl/webcrawl.py",
     "Goal/web crawl/chromedriver.exe",
     "Goal/web crawl",
-    "Goal/webcrawl.py",
-    "Goal/chromedriver.exe",
-    "webcrawl.py",
-    "THIRD_PARTY_NOTICES.chromedriver",
-    "LICENSE.chromedriver",
-    "資結/ch5 trees.md",
     "資結/ch4 linked lists.md",
     "線代/video.md",
     "conflict-files-obsidian-git.md",
@@ -215,7 +217,6 @@
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "演算法/code practice/test.dio.md",
     "picture/hello.svg",
-    "Excalidraw/data structure/ch4 linked list.md",
-    "Excalidraw/algorithm/graph algorithm/20 Elementary Graph Algorithms.md"
+    "Excalidraw/data structure/ch4 linked list.md"
   ]
 }
