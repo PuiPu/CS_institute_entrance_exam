@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae2ef2d210975af",
+        "id": "f7596ef68d1af0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b359ad39ecaf75",
+            "id": "e4ba3e82c2dd25fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "資結/ch6 graphs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 420.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "資結/ch6 graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "資結/ch6 graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +119,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "資結/ch6 graphs.md"
-              }
-            }
-          },
-          {
-            "id": "8b1e092792517384",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -156,33 +140,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b359ad39ecaf75",
+  "active": "e4ba3e82c2dd25fc",
   "lastOpenFiles": [
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
-    "讀書會/數學/離散1.md",
-    "Untitled.md",
-    "讀書會/硬體",
-    "讀書會/軟體",
-    "讀書會/數學",
+    "資結/code practice/textbook practice/p211.cpp",
+    "資結/code practice/textbook practice",
     "資結/ch5 trees.md",
+    "讀書會/數學/離散1.md",
+    "讀書會/數學",
     "讀書會",
     "picture/Ink/Drawing/2024.9.12 - 14.29pm.drawing",
-    "資結/ch6 graphs.md",
-    "Goal/線代目標.md",
-    "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp~",
+    "Xournal++/線代/31. Change of Basis; Image Compression.xopp",
+    "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp",
     "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp",
-    "Goal/web crawl/webcrawl.py",
-    "Goal/web crawl/chromedriver.exe",
-    "Goal/web crawl",
-    "資結/ch4 linked lists.md",
+    "Xournal++/線代/17. Orthogonal Matrices and Gram-Schmidt.xopp",
+    "Xournal++/線代/15. Projections onto Subspaces.xopp",
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
+    "Goal/線代目標.md",
+    "線代/textbook/ch4 linear transformation.md",
+    "線代/ch2 determinant.md",
+    "線代/ch3 vector space.md",
+    "線代/ch4 linear transformation.md",
     "線代/video.md",
     "conflict-files-obsidian-git.md",
-    "線代/ch4 linear transformation.md",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
     "離散/textbook/ch10 graph.md",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
-    "線代/textbook/ch4 linear transformation.md",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
@@ -194,6 +177,7 @@
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Untitled.md",
     "演算法/code practice/Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
     "Excalidraw/discrete math/discrete math mind map.md",
