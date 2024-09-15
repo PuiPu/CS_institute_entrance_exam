@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95964875ca10544a",
+        "id": "d219a46e6bb0c702",
         "type": "tabs",
         "children": [
           {
-            "id": "2b159f6d1476e688",
+            "id": "627d0745f57c5e96",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b159f6d1476e688",
+  "active": "627d0745f57c5e96",
   "lastOpenFiles": [
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "資結/code practice/textbook practice/p211.cpp",
