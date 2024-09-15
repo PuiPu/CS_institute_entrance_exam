@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -167,8 +166,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0f6b6e5eb05a06f0",
+  "active": "bf29be19e4e2f033",
   "lastOpenFiles": [
+    "讀書會/數學/線代1-1~1-3.xopp~",
+    "讀書會/數學/線代1-1~1-3.xopp",
     "讀書會/數學/離散1(錯誤讀法).md",
     "讀書會/數學/離散1.md",
     "資結/ch6 graphs.md",
@@ -185,7 +186,6 @@
     "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp~",
     "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp",
     "Goal/web crawl/webcrawl.py",
-    "Goal/web crawl/chromedriver.exe",
     "資結/ch4 linked lists.md",
     "線代/video.md",
     "線代/ch4 linear transformation.md",
@@ -213,7 +213,6 @@
     "Excalidraw/linear algebra ch2.md",
     "Excalidraw/Drawing 2024-07-31 21.06.41.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "演算法/code practice/test.dio.md",
     "picture/hello.svg"
   ]
 }
