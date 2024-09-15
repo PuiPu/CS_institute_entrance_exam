@@ -5,5 +5,7 @@
   "obsidian-image-toolkit",
   "templater-obsidian",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "obsidian-version-history-diff",
+  "terminal"
 ]

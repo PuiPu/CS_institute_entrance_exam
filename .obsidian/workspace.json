@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d219a46e6bb0c702",
+        "id": "dad291cf42112a6a",
         "type": "tabs",
         "children": [
           {
-            "id": "627d0745f57c5e96",
+            "id": "0f6b6e5eb05a06f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 422.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -121,12 +121,29 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "8b1e092792517384",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bff7a6ceb0bf8274",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -137,35 +154,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "627d0745f57c5e96",
+  "active": "0f6b6e5eb05a06f0",
   "lastOpenFiles": [
+    "資結/ch6 graphs.md",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
-    "資結/code practice/textbook practice/p211.cpp",
-    "資結/code practice/textbook practice",
-    "資結/ch5 trees.md",
+    "conflict-files-obsidian-git.md",
     "讀書會/數學/離散1.md",
+    "Untitled.md",
+    "讀書會/硬體",
+    "讀書會/軟體",
     "讀書會/數學",
+    "資結/ch5 trees.md",
     "讀書會",
     "picture/Ink/Drawing/2024.9.12 - 14.29pm.drawing",
-    "Xournal++/線代/31. Change of Basis; Image Compression.xopp",
-    "Xournal++/線代/28. Similar Matrices and Jordan Form.xopp",
-    "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp",
-    "Xournal++/線代/17. Orthogonal Matrices and Gram-Schmidt.xopp",
-    "Xournal++/線代/15. Projections onto Subspaces.xopp",
     "Goal/線代目標.md",
-    "線代/textbook/ch4 linear transformation.md",
-    "線代/ch2 determinant.md",
-    "線代/ch3 vector space.md",
-    "線代/ch4 linear transformation.md",
+    "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp~",
+    "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp",
+    "Goal/web crawl/webcrawl.py",
+    "Goal/web crawl/chromedriver.exe",
+    "資結/ch4 linked lists.md",
     "線代/video.md",
-    "conflict-files-obsidian-git.md",
+    "線代/ch4 linear transformation.md",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
     "離散/textbook/ch10 graph.md",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
+    "線代/textbook/ch4 linear transformation.md",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
@@ -177,7 +195,6 @@
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
-    "Untitled.md",
     "演算法/code practice/Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
     "Excalidraw/discrete math/discrete math mind map.md",
