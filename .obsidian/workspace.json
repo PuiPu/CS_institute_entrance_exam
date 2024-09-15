@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7596ef68d1af0e4",
+        "id": "95964875ca10544a",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ba3e82c2dd25fc",
+            "id": "2b159f6d1476e688",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,8 +140,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ba3e82c2dd25fc",
+  "active": "2b159f6d1476e688",
   "lastOpenFiles": [
+    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "資結/code practice/textbook practice/p211.cpp",
     "資結/code practice/textbook practice",
     "資結/ch5 trees.md",
@@ -154,7 +155,6 @@
     "Xournal++/線代/24. Markov Matrices; Fourier Series.xopp",
     "Xournal++/線代/17. Orthogonal Matrices and Gram-Schmidt.xopp",
     "Xournal++/線代/15. Projections onto Subspaces.xopp",
-    "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "Goal/線代目標.md",
     "線代/textbook/ch4 linear transformation.md",
     "線代/ch2 determinant.md",
