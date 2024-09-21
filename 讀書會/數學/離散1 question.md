@@ -32,5 +32,3 @@
 	1. constructive 定義 ? 白話 ?
 	2. non-constructive 定義 ? 白話 ?
 3. uniqueness proof :
-4. { 以下內容未看 }
-5. 
