@@ -14,3 +14,8 @@
 4. linear combination 的定義是什麼 ?
 5. Ax = b 的要在什麼條件下才會有解 ? (HINT : 跟 column space、linear combination 有關)
 6. symmetric 的定義是什麼 ? (HINT : 跟 transpose 有關)
+<details>
+<summary>點擊展開內容</summary>
+  這裡是摺疊內容
+</details>
+
