@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ce030d5b0932ef",
+        "id": "e22b87d87cdce024",
         "type": "tabs",
         "children": [
           {
-            "id": "8375aedbd09b6c8e",
+            "id": "66babc40224f0040",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "kanban/研究所考試科目連結.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "讀書會/數學/離散 2.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -80,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban/研究所考試科目連結.md",
+                "file": "讀書會/數學/離散 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban/研究所考試科目連結.md",
+                "file": "讀書會/數學/離散 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,33 +126,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban/研究所考試科目連結.md"
+                "file": "讀書會/數學/離散 2.md"
               }
             }
           },
           {
-            "id": "8b1e092792517384",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bff7a6ceb0bf8274",
+            "id": "b4d9dbed750846f8",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "ff3f20fb05581bd3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,38 +166,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8375aedbd09b6c8e",
+  "active": "66babc40224f0040",
   "lastOpenFiles": [
-    "kanban/研究所考試科目連結.md",
-    "讀書會/數學/離散 2.md",
-    "kanban",
-    "讀書會/數學/線代 1-1 ~ 1-3 question.md",
-    "讀書會/數學/離散1.md",
-    "讀書會/數學/離散1 question.md",
-    "讀書會/數學/ppt/線代1-1~1-3.pdf",
-    "讀書會/數學/ppt/~$線代1-1~1-3.pptx",
-    "conflict-files-obsidian-git.md",
-    "讀書會/README.md",
-    "讀書會/數學/ppt/線代1-1~1-3.pptx",
-    "讀書會/數學/ppt",
-    "讀書會/數學/線代1-1~1-3.xopp~",
-    "讀書會/數學/線代1-1~1-3.xopp",
-    "讀書會/數學/離散1(錯誤讀法).md",
-    "資結/ch6 graphs.md",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
-    "Untitled.md",
-    "讀書會/硬體",
-    "讀書會/軟體",
+    "kanban/研究所考試科目連結.md",
+    "kanban",
+    "讀書會/數學/離散 2.md",
+    "讀書會/數學/離散1 question.md",
+    "讀書會/數學/線代 1-1 ~ 1-3 question.md",
+    "讀書會/README.md",
+    "conflict-files-obsidian-git.md",
+    "讀書會/數學/離散1(錯誤讀法).md",
+    "讀書會/數學/線代1-1~1-3.xopp",
+    "讀書會/數學/ppt/線代1-1~1-3.pptx",
+    "讀書會/數學/ppt/線代1-1~1-3.pdf",
+    "讀書會/數學/ppt",
+    "資結/code practice/textbook practice/p211.cpp",
+    "資結/code practice/textbook practice",
     "資結/ch5 trees.md",
+    "讀書會/數學/離散1.md",
+    "讀書會/數學",
+    "讀書會",
     "Goal/線代目標.md",
-    "資結/ch4 linked lists.md",
-    "線代/video.md",
+    "線代/textbook/ch4 linear transformation.md",
+    "線代/ch2 determinant.md",
+    "線代/ch3 vector space.md",
     "線代/ch4 linear transformation.md",
+    "線代/video.md",
     "vault template/Cornell notes template.md",
     "演算法/code practice/897. Increasing Order Search Tree.md",
     "離散/textbook/ch10 graph.md",
     "演算法/textbook(4e)/13 Red-Black Trees.md",
-    "線代/textbook/ch4 linear transformation.md",
     "演算法/graph algorithm.md",
     "picture/Pasted image 20240731164124.png",
     "picture/897. Increasing Order Search Tree 2024-07-31 23.16.29.excalidraw.md",
@@ -220,8 +208,8 @@
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Untitled.md",
     "演算法/code practice/Untitled Diagram.svg",
-    "Excalidraw/Drawing 2024-07-31 21.39.40.excalidraw.md",
     "picture/test_0.svg",
     "picture/test.svg",
     "picture/hello.svg"
