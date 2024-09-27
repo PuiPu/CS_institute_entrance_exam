@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -152,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +167,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a996ce14cb0087c5",
+  "active": "b4d9dbed750846f8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "讀書會/數學/離散 2.md",
