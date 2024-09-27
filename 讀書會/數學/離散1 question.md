@@ -26,7 +26,7 @@
 2. corollary 是什麼 ? 
 3. direct proof / proof by contradiction 使用的時機 ?
 4. circular reasoning 發生的原因 ?
-5. VACUOUS AND TRIVIAL PROOFS ㄍㄨㄟ
+5. VACUOUS AND TRIVIAL PROOFS 詭異
 # 1-8
 1. without loss of generality 是什麼 ? 運用的時機 ? 好處 ?
 2. existence proof : 
