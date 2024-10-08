@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02fe06f05894d5ba",
+        "id": "85da461ae2eb1f85",
         "type": "tabs",
         "children": [
           {
-            "id": "053a04720a54f4fd",
+            "id": "b509374c7dde593a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "053a04720a54f4fd",
+  "active": "b509374c7dde593a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
+    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "讀書會/數學/離散1.md",
     "讀書會/數學/離散 2.md",
