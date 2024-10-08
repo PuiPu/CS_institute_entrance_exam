@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a00b09bcc8c44dea",
+        "id": "02fe06f05894d5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "c937a8129e9547d4",
+            "id": "053a04720a54f4fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,13 +159,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c937a8129e9547d4",
+  "active": "053a04720a54f4fd",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "讀書會/數學/離散1.md",
     "讀書會/數學/離散 2.md",
     "讀書會/數學/離散1 question.md",
-    "conflict-files-obsidian-git.md",
     "讀書會/數學/線代 1-4 ~ 1-6.md",
     "讀書會/數學/線代 1-1 ~ 1-3.md",
     "kanban/研究所考試科目連結.md",
@@ -180,7 +181,6 @@
     "資結/code practice/textbook practice",
     "資結/ch5 trees.md",
     "讀書會/數學",
-    "讀書會",
     "Goal/線代目標.md",
     "線代/textbook/ch4 linear transformation.md",
     "線代/ch2 determinant.md",
