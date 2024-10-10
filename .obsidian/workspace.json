@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c8d10126216119b",
+        "id": "85da461ae2eb1f85",
         "type": "tabs",
         "children": [
           {
-            "id": "f3902d0ce6478c35",
+            "id": "b509374c7dde593a",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 275.5
   },
   "right": {
     "id": "1ca7a9708a7dac0d",
@@ -165,19 +165,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f3902d0ce6478c35",
+  "active": "b509374c7dde593a",
   "lastOpenFiles": [
-    "讀書會/數學/線代 1-4 ~ 1-6.md",
     "TEXTBOOK/Linear_Algebra_with_Applications_Global_Edition_by_Leon_Steven_de_Pillis_Lisette_z-lib.org.pdf",
-    "讀書會/數學/離散 2.md",
+    "conflict-files-obsidian-git.md",
     "TEXTBOOK/Kenneth Rosen - Discrete Mathematics and Its Applications (2018, McGraw Hill) - libgen.li.pdf",
     "讀書會/數學/離散1.md",
+    "讀書會/數學/離散 2.md",
     "讀書會/數學/離散1 question.md",
+    "讀書會/數學/線代 1-4 ~ 1-6.md",
     "讀書會/數學/線代 1-1 ~ 1-3.md",
-    "conflict-files-obsidian-git.md",
     "kanban/研究所考試科目連結.md",
     "kanban",
-    "讀書會/數學/線代 1-1 ~ 1-3 question.md",
     "讀書會/README.md",
     "讀書會/數學/離散1(錯誤讀法).md",
     "讀書會/數學/線代1-1~1-3.xopp",
@@ -207,6 +206,7 @@
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-07-31 21.51.42.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "演算法/code practice/Untitled Diagram.svg",
     "picture/test_0.svg",
